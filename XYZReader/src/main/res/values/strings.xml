@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+
+    <string name="mockup_title">Social Empowerment of Women</string>
+    <string name="mockup_author">Dr. S. Meena Priya Dharshani</string>
+    <string name="mockup_body_text">Social Empowerment of Women is an active multidimensional process,
+        which should enable one to realize their full identity and powers in all spheres of life.
+        Women Empowerment: this book is divided into four chapters.
+        They are Introduction, Educational Empowerment, Social Empowerment and Political empowerment.
+        This book not only make an awareness.</string>
+</resources>
