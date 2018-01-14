@@ -18,9 +18,13 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="theme_primary">#17BEBB</color>
-    <color name="theme_primary_dark">#0F7977</color>
-    <color name="theme_accent">#E4572E</color>
+    <color name="cyan500">#00BCD4</color>
+    <color name="cyan700">#0097A7</color>
+    <color name="deep_orange_A200">#FF6E40</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="dkgray">#0f0f0f</color>
+    
+    <color name="theme_primary">@color/cyan500</color>
+    <color name="theme_primary_dark">@color/cyan700</color>
+    <color name="theme_accent">@color/deep_orange_A200</color>
 </resources>

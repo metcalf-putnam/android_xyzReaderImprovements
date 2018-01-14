@@ -16,4 +16,7 @@
         Women Empowerment: this book is divided into four chapters.
         They are Introduction, Educational Empowerment, Social Empowerment and Political empowerment.
         This book not only make an awareness.</string>
+
+    <string name="snackbar_no_internet">Oops! No internet :(</string>
+    <string name="snackbar_action_retry">Retry?</string>
 </resources>
